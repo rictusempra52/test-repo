@@ -8,6 +8,6 @@ readme を作りました。
 
 ### ベリーグッドだね konnniniha
 
-#　 branch 作成
+# branch 作成
 
 - つくったよ
